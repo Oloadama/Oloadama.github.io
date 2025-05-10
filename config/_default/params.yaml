@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '©{authors} {year}. This work is licensed under {license}'
+    notice: '©Oloche {year}. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
