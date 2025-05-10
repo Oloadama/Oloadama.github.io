@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Oloche is a Research Assistant in Natural Product Chemistry at the Department of Pharmaceutical Chemistry, University of Benin. His research interests lie at the intersection of machine learning and drug discovery, where he is passionate about leveraging computational tools to accelerate the discovery of therapeutic agents from natural sources like plants and microbes.
+I am a Research Assistant in Natural Product Chemistry at the Department of Pharmaceutical Chemistry, University of Benin. My research interests lie at the intersection of machine learning and drug discovery, where I am passionate about leveraging computational tools to accelerate the discovery of therapeutic agents from natural sources like plants and microbes.
