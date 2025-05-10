@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Natural product Chemistry
-  - Computer-Aided drug discovery
-  - Machine Learning
+  - Exploring the potential of Natural products in drug discovery
+  - Applying machine learning techniques to predict bioactive compounds
+  - Developing computational models to aid in Pharmaceutical Research
 
 education:
   - area: PhD Artificial Intelligence
