@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Oloche Adama
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Oloche Adama
 last_name: Chien
 
 # Status emoji
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Benin
+    url: https://pharmacy.uniben.edu/department-of-pharmaceutical-chemistry/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
